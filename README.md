@@ -1,4 +1,12 @@
 # Node.js jsonwebtoken Example
+``` bash
+# get token
+ http://localhost:5000/api/login
+# Decode token
+http://localhost:5000/api/posts
+
+```
+
 
 > An example of how to protect routes and get a token
 
