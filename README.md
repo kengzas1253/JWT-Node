@@ -8,6 +8,6 @@
 # Install dependencies
 npm install
 
-# Serve on localhost:3000
-npm start
+# Serve on localhost:5000
+node app.js
 ```
